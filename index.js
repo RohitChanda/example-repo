@@ -1,0 +1,1 @@
+consople.log("Hello world");
